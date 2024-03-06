@@ -15,6 +15,6 @@ export default [
         title: 'QPromo Logo Design',
         imgUrl: './assets/Qpromo.png',
         stack: ['Figma', 'HCI', 'UI/UX'],
-        link: 'src/components/error.html',
+        link: './components/error.html',
     },
 ]
