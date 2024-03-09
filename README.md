@@ -1,13 +1,13 @@
 # Jash profile site
 
-This is my profile website, where I try my best to showcase projects I have done so far. 
+This is my profile website => https://jashsayshi.netlify.app , where I try my best to showcase projects I have done so far. 
 I am constantly learning new things and may not update it as regularly. 
 However, I hope I can keep adding new changes and make this better. 
 
 Additionally, this webpage was highly influenced by the tutorial and yt channel : https://youtu.be/b0pkpcD8Ms4?si=cU_U1dcUIMat18An please do check them out!
 
 
-# React + Vite
+## React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
