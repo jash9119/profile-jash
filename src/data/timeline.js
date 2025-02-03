@@ -1,6 +1,20 @@
 export default [
     {
         year: '2024',
+        title: 'SDK Tester Intern - Social Plus (Amity Technologies)',
+        duration: '7 months', 
+        details: 
+            'Delved into the world of QA and testing, days are filled with a lot of bug reports and jira tickets. Softwares used : Testmo, TestRail, Jira and Postman for API Testing.',
+    },
+    {
+        year: '2024',
+        title: 'Data Analyst Intern - Infineon Technologies (OPC PLP Team)',
+        duration: '2.5 months', 
+        details: 
+            'Used KNIME Data analytics platform to connect weekly excel reports to Tableau Dashboards cutting significant redundant time.',
+    },
+    {
+        year: '2024',
         title: 'Bubble Developer Intern - ZStudioo',
         duration: '1.5 months', 
         details: 

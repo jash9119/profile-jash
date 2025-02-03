@@ -18,3 +18,4 @@ export default [
         link: 'https://www.figma.com/proto/kiLJDY0iNlTEG8vSxScGtB/QPromo-App?node-id=203-6843&t=9uQDjCahYDUw4BC7-0&scaling=scale-down&content-scaling=fixed&page-id=203%3A4740&starting-point-node-id=203%3A6936',
     },
 ]
+
